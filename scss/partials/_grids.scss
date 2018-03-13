@@ -1,0 +1,12 @@
+.grid-1 {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 40px;
+
+
+  img {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+}
