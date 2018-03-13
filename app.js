@@ -8,7 +8,7 @@ app.use(express.static('public'));
 
 /***    ROUTIN    ****/
 app.get('/', (req, res) => {
-  res.send('Home');
+  res.render('home.ejs');
 });
 
 app.get('*', (req, res) => {
