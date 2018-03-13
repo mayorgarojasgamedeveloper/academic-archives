@@ -1,0 +1,26 @@
+{
+  "name": "academic-archives",
+  "version": "1.0.0",
+  "description": "Proyecto de control academico",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayorgarojasgamedeveloper/academic-archives.git"
+  },
+  "author": "Fernando Mayorga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayorgarojasgamedeveloper/academic-archives/issues"
+  },
+  "homepage": "https://github.com/mayorgarojasgamedeveloper/academic-archives#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "font-awesome": "^4.7.0",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {}
+}
