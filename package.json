@@ -1,26 +1,23 @@
 {
-  "name": "academic-archives",
+  "name": "Academic.Archives",
   "version": "1.0.0",
-  "description": "Proyecto de control academico",
+  "description": "Proyecto programacion para SSP de Ingenieria de Software",
   "main": "app.js",
   "scripts": {
-    "start": "node ./app.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mayorgarojasgamedeveloper/academic-archives.git"
+    "url": "git+https://github.com/mayorgarojasgamedeveloper/terraza.git"
   },
   "author": "Fernando Mayorga",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mayorgarojasgamedeveloper/academic-archives/issues"
+    "url": "https://github.com/mayorgarojasgamedeveloper/terraza/issues"
   },
-  "homepage": "https://github.com/mayorgarojasgamedeveloper/academic-archives#readme",
+  "homepage": "https://github.com/mayorgarojasgamedeveloper/terraza#readme",
   "dependencies": {
     "ejs": "^2.5.7",
-    "express": "^4.16.3",
-    "font-awesome": "^4.7.0",
-    "morgan": "^1.9.0"
-  },
-  "devDependencies": {}
+    "express": "^4.16.3"
+  }
 }
